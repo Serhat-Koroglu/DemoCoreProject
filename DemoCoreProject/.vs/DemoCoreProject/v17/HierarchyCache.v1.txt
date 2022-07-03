@@ -1,0 +1,1195 @@
+﻿++Solution 'DemoCoreProject' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:DemoCoreProject.sln
+++Demo.Core.Entities
+i:{00000000-0000-0000-0000-000000000000}:Demo.Core.Entities
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.entities\bin\debug\netcoreapp2.1\demo.core.entities.dll
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.entities\bin\debug\netcoreapp2.1\demo.core.entities.dll
+++Dependencies
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:>401
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:>398
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:>399
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1361
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:>402
+++Concrete
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:c:\users\software306\source\repos\democoreproject\demo.core.entities\concrete\
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.bll\concrete\
+++Analyzers
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:analyzers
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:analyzers
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:analyzers
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:analyzers
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:analyzers
+++Packages
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:packages
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:packages
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:packages
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:packages
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:packages
+++Projects
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:projects
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:projects
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:projects
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:projects
+++Cart.cs
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:c:\users\software306\source\repos\democoreproject\demo.core.entities\concrete\cart.cs
+++CartLine.cs
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:c:\users\software306\source\repos\democoreproject\demo.core.entities\concrete\cartline.cs
+++Categories.cs
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:c:\users\software306\source\repos\democoreproject\demo.core.entities\concrete\categories.cs
+++Products.cs
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:c:\users\software306\source\repos\democoreproject\demo.core.entities\concrete\products.cs
+++ShippingDetails.cs
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:c:\users\software306\source\repos\democoreproject\demo.core.entities\concrete\shippingdetails.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:c:\users\software306\.nuget\packages\microsoft.entityframeworkcore.analyzers\2.1.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:c:\users\software306\.nuget\packages\microsoft.entityframeworkcore.analyzers\2.1.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\.nuget\packages\microsoft.entityframeworkcore.analyzers\2.1.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\.nuget\packages\microsoft.entityframeworkcore.analyzers\2.1.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\.nuget\packages\microsoft.entityframeworkcore.analyzers\2.1.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App (2.1.0)
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:>1367
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:>1372
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:>1368
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1402
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:>1388
+++Demo.Core
+i:{26fa1ac8-8a35-4e23-a34e-a95f1cdb3c22}:c:\users\software306\source\repos\democoreproject\demo.core\bin\debug\netcoreapp2.1\demo.core.dll
+i:{00000000-0000-0000-0000-000000000000}:Demo.Core
+++DAL
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:c:\users\software306\source\repos\democoreproject\demo.core\dal\
+++Entities
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:c:\users\software306\source\repos\democoreproject\demo.core\entities\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\entities\
+++EntityFramework
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:c:\users\software306\source\repos\democoreproject\demo.core\dal\entityframework\
+++IEntityRepository.cs
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:c:\users\software306\source\repos\democoreproject\demo.core\dal\ientityrepository.cs
+++IEntity.cs
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:c:\users\software306\source\repos\democoreproject\demo.core\entities\ientity.cs
+++Microsoft.EntityFrameworkCore (2.1.1)
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:>1369
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:>1384
+++EfEntityRepositoryBase.cs
+i:{9fe7cbfc-4099-4712-8a63-f716fa692ffb}:c:\users\software306\source\repos\democoreproject\demo.core\dal\entityframework\efentityrepositorybase.cs
+++Demo.Core.BLL
+i:{00000000-0000-0000-0000-000000000000}:Demo.Core.BLL
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.bll\bin\debug\netcoreapp2.1\demo.core.bll.dll
+++Abstract
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.bll\abstract\
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\abstract\
+++ICartService.cs
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.bll\abstract\icartservice.cs
+++ICategoryService.cs
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.bll\abstract\icategoryservice.cs
+++IProductService.cs
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.bll\abstract\iproductservice.cs
+++CartManager.cs
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.bll\concrete\cartmanager.cs
+++CategoryManager.cs
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.bll\concrete\categorymanager.cs
+++ProductManager.cs
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.bll\concrete\productmanager.cs
+++Demo.Core.DAL
+i:{bf092888-c7de-400a-a011-b51df3e263b7}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\demo.core.dal.dll
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\demo.core.dal.dll
+i:{00000000-0000-0000-0000-000000000000}:Demo.Core.DAL
+++Demo.Core.MvcUI
+i:{00000000-0000-0000-0000-000000000000}:Demo.Core.MvcUI
+++Connected Services 
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1362
+++Properties
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\properties\
+++Controllers
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\controllers\
+++ExtensionMethods
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\extensionmethods\
+++Middlewares
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\middlewares\
+++Model
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\
+++CartListViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\cartlistviewmodel.cs
+++CartSummaryViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\cartsummaryviewmodel.cs
+++CategoryListViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\categorylistviewmodel.cs
+++LoginViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\loginviewmodel.cs
+++ProductAddViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\productaddviewmodel.cs
+++ProductListViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\productlistviewmodel.cs
+++ProductUpdateViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\productupdateviewmodel.cs
+++RegisterViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\registerviewmodel.cs
+++ShippingDetailsViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\shippingdetailsviewmodel.cs
+++UserDetailsViewModel.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\model\userdetailsviewmodel.cs
+++node_modules
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\
+++bootstrap
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\
+++jquery
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\
+++jquery-validation
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\
+++jquery-validation-unobtrusive
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation-unobtrusive\
+++jquery.validate.unobtrusive.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++LICENSE.txt
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation-unobtrusive\license.txt
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\license.txt
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\external\sizzle\license.txt
+++package.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation-unobtrusive\package.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\package.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\package.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\package.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\package.json
+++README.md
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation-unobtrusive\readme.md
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\readme.md
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\readme.md
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\readme.md
+++Services
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\services\
+++TagHelpers
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\taghelpers\
+++ViewComponents
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\viewcomponents\
+++Views
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\
+++Cart
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\cart\
+++Complete.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\cart\complete.cshtml
+++List.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\cart\list.cshtml
+++Product
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\product\
+++Index.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\product\index.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\admin\index.cshtml
+++Shared
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\shared\
+++Components
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\shared\components\
+++CartSummary
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\shared\components\cartsummary\
+++Default.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\shared\components\cartsummary\default.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\shared\components\categorylist\default.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\shared\components\usersummary\default.cshtml
+++CategoryList
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\shared\components\categorylist\
+++UserSummary
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\shared\components\usersummary\
+++_Layout.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\_layout.cshtml
+++_ViewImports.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\_viewstart.cshtml
+++appsettings.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\appsettings.json
+++appsettings.Development.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\appsettings.development.json
+++package-lock.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\package-lock.json
+++Program.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\program.cs
+++ScaffoldingReadMe.txt
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\scaffoldingreadme.txt
+++Startup.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\startup.cs
+++No service dependencies discovered
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1363
+++launchSettings.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\properties\launchsettings.json
+++CartController.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\controllers\cartcontroller.cs
+++ProductController.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\controllers\productcontroller.cs
+++CustomIdentityDbContext.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\entities\customidentitydbcontext.cs
+++CustomIdentityRole.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\entities\customidentityrole.cs
+++CustomIdentityUser.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\entities\customidentityuser.cs
+++SessionExtensionsMethods.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\extensionmethods\sessionextensionsmethods.cs
+++ApplicationBuilderExtensions.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\middlewares\applicationbuilderextensions.cs
+++dist
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\dist\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\external\sizzle\dist\
+++fonts
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\fonts\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\fonts\
+++grunt
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\
+++js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\js\
+++less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\
+++CHANGELOG.md
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\changelog.md
+++Gruntfile.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\gruntfile.js
+++LICENSE
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\license
+++external
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\external\
+++src
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\
+++AUTHORS.txt
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\authors.txt
+++bower.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\bower.json
+++changelog.md
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\changelog.md
+++LICENSE.md
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\license.md
+++CartSessionService.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\services\cartsessionservice.cs
+++ICartSessionService.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\services\icartsessionservice.cs
+++PagingTagHelper.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\taghelpers\pagingtaghelper.cs
+++CartSummaryViewComponent.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\viewcomponents\cartsummaryviewcomponent.cs
+++CategoryListViewComponent.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\viewcomponents\categorylistviewcomponent.cs
+++UserSummaryViewComponent.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\viewcomponents\usersummaryviewcomponent.cs
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\.nuget\packages\microsoft.aspnetcore.mvc.analyzers\2.1.1\analyzers\dotnet\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\.nuget\packages\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++bootstrap (3.3.7)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1385
+++jQuery (3.1.1)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1387
+++jQuery.Validation (1.16.0)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1397
+++jQuery.Validation.Unobtrusive (2.0.20710)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1406
+++Microsoft.AspNetCore (2.1.7)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1403
+++Microsoft.AspNetCore.App (2.1.1)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1395
+++Microsoft.AspNetCore.Mvc (2.1.3)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1399
+++Microsoft.AspNetCore.Razor.Design (2.1.2)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1390
+++Microsoft.AspNetCore.StaticFiles (2.1.1)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1398
+++Microsoft.EntityFrameworkCore.Design (2.1.14)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1396
+++Microsoft.EntityFrameworkCore.SqlServer (2.1.14)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1392
+++Microsoft.EntityFrameworkCore.Tools (2.1.14)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1400
+++Microsoft.Extensions.Logging.Debug (2.1.1)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1405
+++Microsoft.VisualStudio.Web.BrowserLink (2.1.1)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1401
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (2.1.10)
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:>1404
+++css
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\css\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\
+++glyphicons-halflings-regular.eot
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\fonts\glyphicons-halflings-regular.eot
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\fonts\glyphicons-halflings-regular.svg
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\fonts\glyphicons-halflings-regular.ttf
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\fonts\glyphicons-halflings-regular.woff
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\fonts\glyphicons-halflings-regular.woff2
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2
+++.jshintrc
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\.jshintrc
+++bs-commonjs-generator.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\bs-commonjs-generator.js
+++bs-glyphicons-data-generator.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\bs-glyphicons-data-generator.js
+++bs-lessdoc-parser.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\bs-lessdoc-parser.js
+++bs-raw-files-generator.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\bs-raw-files-generator.js
+++change-version.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\change-version.js
+++configBridge.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\configbridge.json
+++npm-shrinkwrap.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\npm-shrinkwrap.json
+++sauce_browsers.yml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\grunt\sauce_browsers.yml
+++affix.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\affix.js
+++alert.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\alert.js
+++button.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\button.js
+++carousel.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\carousel.js
+++collapse.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\collapse.js
+++dropdown.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\dropdown.js
+++modal.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\modal.js
+++popover.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\popover.js
+++scrollspy.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\scrollspy.js
+++tab.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\tab.js
+++tooltip.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\tooltip.js
+++transition.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\js\transition.js
+++mixins
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\
+++alerts.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\alerts.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\alerts.less
+++badges.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\badges.less
+++bootstrap.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\bootstrap.less
+++breadcrumbs.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\breadcrumbs.less
+++button-groups.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\button-groups.less
+++buttons.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\buttons.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\buttons.less
+++carousel.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\carousel.less
+++close.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\close.less
+++code.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\code.less
+++component-animations.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\component-animations.less
+++dropdowns.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\dropdowns.less
+++forms.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\forms.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\forms.less
+++glyphicons.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\glyphicons.less
+++grid.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\grid.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\grid.less
+++input-groups.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\input-groups.less
+++jumbotron.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\jumbotron.less
+++labels.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\labels.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\labels.less
+++list-group.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\list-group.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\list-group.less
+++media.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\media.less
+++mixins.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins.less
+++modals.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\modals.less
+++navbar.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\navbar.less
+++navs.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\navs.less
+++normalize.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\normalize.less
+++pager.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\pager.less
+++pagination.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\pagination.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\pagination.less
+++panels.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\panels.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\panels.less
+++popovers.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\popovers.less
+++print.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\print.less
+++progress-bars.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\progress-bars.less
+++responsive-embed.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\responsive-embed.less
+++responsive-utilities.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\responsive-utilities.less
+++scaffolding.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\scaffolding.less
+++tables.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\tables.less
+++theme.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\theme.less
+++thumbnails.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\thumbnails.less
+++tooltip.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\tooltip.less
+++type.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\type.less
+++utilities.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\utilities.less
+++variables.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\variables.less
+++wells.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\wells.less
+++core.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\dist\core.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core.js
+++jquery.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\dist\jquery.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\jquery.js
+++sizzle
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\external\sizzle\
+++ajax
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\
+++attributes
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\attributes\
+++core
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\
+++data
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\data\
+++deferred
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\deferred\
+++effects
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\effects\
+++event
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\event\
+++exports
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\exports\
+++manipulation
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\
+++queue
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\queue\
+++traversing
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\traversing\
+++var
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\var\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\var\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\var\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\data\var\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\var\
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\traversing\var\
+++.eslintrc.json
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\.eslintrc.json
+++ajax.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\event\ajax.js
+++attributes.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\attributes.js
+++callbacks.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\callbacks.js
+++css.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css.js
+++data.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\data.js
+++deferred.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\deferred.js
+++deprecated.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\deprecated.js
+++dimensions.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\dimensions.js
+++effects.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\effects.js
+++event.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\event.js
+++manipulation.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation.js
+++offset.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\offset.js
+++queue.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\queue.js
+++selector.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\selector.js
+++selector-native.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\selector-native.js
+++selector-sizzle.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\selector-sizzle.js
+++serialize.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\serialize.js
+++traversing.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\traversing.js
+++wrap.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\wrap.js
+++localization
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\
+++additional-methods.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\jquery.validate.js
+++bootstrap.css
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\css\bootstrap.css
+++bootstrap-theme.css
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\css\bootstrap-theme.css
+++bootstrap.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\js\bootstrap.js
+++npm.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\js\npm.js
+++background-variant.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\background-variant.less
+++border-radius.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\border-radius.less
+++center-block.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\center-block.less
+++clearfix.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\clearfix.less
+++gradients.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\gradients.less
+++grid-framework.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\grid-framework.less
+++hide-text.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\hide-text.less
+++image.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\image.less
+++nav-divider.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\nav-divider.less
+++nav-vertical-align.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\nav-vertical-align.less
+++opacity.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\opacity.less
+++progress-bar.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\progress-bar.less
+++reset-filter.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\reset-filter.less
+++reset-text.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\reset-text.less
+++resize.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\resize.less
+++responsive-visibility.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\responsive-visibility.less
+++size.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\size.less
+++tab-focus.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\tab-focus.less
+++table-row.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\table-row.less
+++text-emphasis.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\text-emphasis.less
+++text-overflow.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\text-overflow.less
+++vendor-prefixes.less
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\less\mixins\vendor-prefixes.less
+++jquery.min.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\dist\jquery.min.js
+++jquery.slim.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\dist\jquery.slim.js
+++jsonp.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\jsonp.js
+++load.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\load.js
+++parseXML.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\parsexml.js
+++script.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\script.js
+++xhr.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\xhr.js
+++attr.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\attributes\attr.js
+++classes.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\attributes\classes.js
+++prop.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\attributes\prop.js
+++support.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\attributes\support.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\support.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\support.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\event\support.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\support.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\support.js
+++val.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\attributes\val.js
+++access.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\access.js
+++DOMEval.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\domeval.js
+++init.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\init.js
+++parseHTML.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\parsehtml.js
+++ready.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\ready.js
+++readyException.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\readyexception.js
+++ready-no-deferred.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\ready-no-deferred.js
+++stripAndCollapse.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\stripandcollapse.js
+++addGetHookIf.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\addgethookif.js
+++adjustCSS.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\adjustcss.js
+++curCSS.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\curcss.js
+++hiddenVisibleSelectors.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\hiddenvisibleselectors.js
+++showHide.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\showhide.js
+++Data.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\data\data.js
+++exceptionHook.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\deferred\exceptionhook.js
+++animatedSelector.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\effects\animatedselector.js
+++Tween.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\effects\tween.js
+++alias.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\event\alias.js
+++focusin.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\event\focusin.js
+++trigger.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\event\trigger.js
+++amd.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\exports\amd.js
+++global.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\exports\global.js
+++_evalUrl.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\_evalurl.js
+++buildFragment.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\buildfragment.js
+++getAll.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\getall.js
+++setGlobalEval.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\setglobaleval.js
+++wrapMap.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\wrapmap.js
+++delay.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\queue\delay.js
+++findFilter.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\traversing\findfilter.js
+++arr.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\arr.js
+++class2type.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\class2type.js
+++concat.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\concat.js
+++document.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\document.js
+++documentElement.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\documentelement.js
+++fnToString.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\fntostring.js
+++getProto.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\getproto.js
+++hasOwn.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\hasown.js
+++indexOf.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\indexof.js
+++ObjectFunctionString.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\objectfunctionstring.js
+++pnum.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\pnum.js
+++push.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\push.js
+++rcssNum.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\rcssnum.js
+++rnothtmlwhite.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\rnothtmlwhite.js
+++slice.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\slice.js
+++toString.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\var\tostring.js
+++messages_ar.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_ar.js
+++messages_az
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_az
+++messages_bg.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_bg.js
+++messages_bn_BD.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_bn_bd.js
+++messages_ca.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_ca.js
+++messages_cs.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_cs.js
+++messages_da.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_da.js
+++messages_de.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_de.js
+++messages_el.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_el.js
+++messages_es.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_es.js
+++messages_es_AR.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_es_ar.js
+++messages_es_PE.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_es_pe.js
+++messages_et.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_et.js
+++messages_eu.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_eu.js
+++messages_fa.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_fa.js
+++messages_fi.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_fi.js
+++messages_fr.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_fr.js
+++messages_ge.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_ge.js
+++messages_gl.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_gl.js
+++messages_he.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_he.js
+++messages_hr.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_hr.js
+++messages_hu.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_hu.js
+++messages_hy_AM.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_hy_am.js
+++messages_id.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_id.js
+++messages_is.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_is.js
+++messages_it.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_it.js
+++messages_ja.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_ja.js
+++messages_ka.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_ka.js
+++messages_kk.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_kk.js
+++messages_ko.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_ko.js
+++messages_lt.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_lt.js
+++messages_lv.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_lv.js
+++messages_mk.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_mk.js
+++messages_my.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_my.js
+++messages_nl.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_nl.js
+++messages_no.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_no.js
+++messages_pl.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_pl.js
+++messages_pt_BR.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_pt_br.js
+++messages_pt_PT.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_pt_pt.js
+++messages_ro.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_ro.js
+++messages_ru.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_ru.js
+++messages_si.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_si.js
+++messages_sk.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_sk.js
+++messages_sl.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_sl.js
+++messages_sr.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_sr.js
+++messages_sr_lat.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_sr_lat.js
+++messages_sv.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_sv.js
+++messages_th.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_th.js
+++messages_tj.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_tj.js
+++messages_tr.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_tr.js
+++messages_uk.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_uk.js
+++messages_ur.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_ur.js
+++messages_vi.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_vi.js
+++messages_zh.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_zh.js
+++messages_zh_TW.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_zh_tw.js
+++methods_de.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\methods_de.js
+++methods_es_CL.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\methods_es_cl.js
+++methods_fi.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\methods_fi.js
+++methods_nl.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\methods_nl.js
+++methods_pt.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\methods_pt.js
+++jquery.validate.min.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-theme.css.map
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\css\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\css\bootstrap-theme.min.css
+++bootstrap.min.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\dist\jquery.min.map
+++jquery.slim.min.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\dist\jquery.slim.min.js
+++sizzle.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\external\sizzle\dist\sizzle.js
+++location.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\var\location.js
+++nonce.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\var\nonce.js
+++rquery.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\ajax\var\rquery.js
+++rsingleTag.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\core\var\rsingletag.js
+++cssExpand.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\var\cssexpand.js
+++getStyles.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\var\getstyles.js
+++isHiddenWithinTree.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\var\ishiddenwithintree.js
+++rmargin.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\var\rmargin.js
+++rnumnonpx.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\var\rnumnonpx.js
+++swap.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\css\var\swap.js
+++acceptData.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\data\var\acceptdata.js
+++dataPriv.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\data\var\datapriv.js
+++dataUser.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\data\var\datauser.js
+++rcheckableType.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\var\rcheckabletype.js
+++rscriptType.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\var\rscripttype.js
+++rtagName.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\manipulation\var\rtagname.js
+++dir.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\traversing\var\dir.js
+++rneedsContext.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\traversing\var\rneedscontext.js
+++siblings.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\src\traversing\var\siblings.js
+++messages_az.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery-validation\dist\localization\messages_az.js
+++bootstrap.min.css.map
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-theme.min.css.map
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\bootstrap\dist\css\bootstrap-theme.min.css.map
+++jquery.slim.min.map
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\dist\jquery.slim.min.map
+++sizzle.min.js
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\external\sizzle\dist\sizzle.min.js
+++sizzle.min.map
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\node_modules\jquery\external\sizzle\dist\sizzle.min.map
+++Imports
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:>302
+++bin
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\
+++Conrete
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\conrete\
+++obj
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\
+++Sdk.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.targets
+++ICategoryDal.cs
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\abstract\icategorydal.cs
+++IProductDal.cs
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\abstract\iproductdal.cs
+++Debug
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\
+++EfCategoryDal.cs
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\conrete\efcategorydal.cs
+++EfProductDal.cs
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\conrete\efproductdal.cs
+++NorthwindContext.cs
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\conrete\northwindcontext.cs
+++Demo.Core.DAL.csproj.nuget.dgspec.json
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\demo.core.dal.csproj.nuget.dgspec.json
+++Demo.Core.DAL.csproj.nuget.g.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\demo.core.dal.csproj.nuget.g.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\demo.core.dal.csproj.nuget.g.props
+++Demo.Core.DAL.csproj.nuget.g.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\demo.core.dal.csproj.nuget.g.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\demo.core.dal.csproj.nuget.g.targets
+++project.assets.json
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\project.assets.json
+++project.nuget.cache
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\project.nuget.cache
+++Microsoft.EntityFrameworkCore.SqlServer (2.1.1)
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:>1386
+++Microsoft.Common.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++netcoreapp2.1
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\
+++Microsoft.NuGet.ImportBefore.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Windows.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Demo.Core.DAL.deps.json
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\demo.core.dal.deps.json
+++Demo.Core.DAL.dll
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\demo.core.dal.dll
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.dll
+++Demo.Core.DAL.pdb
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\demo.core.dal.pdb
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.pdb
+++Demo.Core.dll
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\demo.core.dll
+++Demo.Core.Entities.dll
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\demo.core.entities.dll
+++Demo.Core.Entities.pdb
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\demo.core.entities.pdb
+++Demo.Core.pdb
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\bin\debug\netcoreapp2.1\demo.core.pdb
+++.NETCoreApp,Version=v2.1.AssemblyAttributes.cs
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\.netcoreapp,version=v2.1.assemblyattributes.cs
+++Demo.Core.DAL.AssemblyInfo.cs
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.assemblyinfo.cs
+++Demo.Core.DAL.AssemblyInfoInputs.cache
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.assemblyinfoinputs.cache
+++Demo.Core.DAL.assets.cache
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.assets.cache
+++Demo.Core.DAL.csproj.AssemblyReference.cache
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.csproj.assemblyreference.cache
+++Demo.Core.DAL.csproj.CopyComplete
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.csproj.copycomplete
+++Demo.Core.DAL.csproj.CoreCompileInputs.cache
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.csproj.corecompileinputs.cache
+++Demo.Core.DAL.csproj.FileListAbsolute.txt
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.csproj.filelistabsolute.txt
+++Demo.Core.DAL.GeneratedMSBuildEditorConfig.editorconfig
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\source\repos\democoreproject\demo.core.dal\obj\debug\netcoreapp2.1\demo.core.dal.generatedmsbuildeditorconfig.editorconfig
+++Microsoft.NETCore.App.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\.nuget\packages\microsoft.netcore.app\2.1.0\build\netcoreapp2.1\microsoft.netcore.app.props
+++Microsoft.NuGet.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.NET.ILLink.Tasks.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.NET.props
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++NETStandard.Library.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\.nuget\packages\netstandard.library\2.0.3\build\netstandard2.0\netstandard.library.targets
+++Microsoft.NETCore.App.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\users\software306\.nuget\packages\microsoft.netcore.app\2.1.0\build\netcoreapp2.1\microsoft.netcore.app.targets
+++Microsoft.Docker.targets
+i:{b9000af5-7cb2-4e5b-891d-e2452a107d7b}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Pages
+++Error.cshtml
+++Models
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\models\
+++Data
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\data\
+++wwwroot
+++images
+++lib
+++site.css
+++site.js
+++jquery.validate.unobtrusive.min.js
+++additional-methods.min.js
+++bundleconfig.json
+++_AdminLayout.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\_adminlayout.cshtml
+++AdminController.cs
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\controllers\admincontroller.cs
+++Admin
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\admin\
+++Add.cshtml
+i:{ebd6d17e-346b-4e8a-9689-f3d5d5837904}:c:\users\software306\source\repos\democoreproject\demo.core.mvcui\views\admin\add.cshtml
